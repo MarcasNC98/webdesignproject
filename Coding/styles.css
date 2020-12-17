@@ -162,14 +162,15 @@ img {
 }
 
 .navcolor{
-  color: blue;
+  color:#13b6ec;
   float:none !important; 
   text-align: center;
   vertical-align: middle;
 
 }
 .navcolor:hover{
-  color: blue;
+  color: #13b6ec;
 }
+
 
 
