@@ -114,8 +114,8 @@ footer{
 	height: 700px;
 	width: 100%;
 	background-color: #008B8B;
-	color:yellow;
-	background: url("aboutus.jpg");
+	color:#000000;
+	background: url("speaker.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 700px;
 	padding: 50px 300px;
